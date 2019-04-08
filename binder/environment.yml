@@ -23,6 +23,7 @@ dependencies:
   - ipywidgets
   - graphviz
   - nodejs
+  - mne
   - pip:
     - kubernetes
     - graphviz
