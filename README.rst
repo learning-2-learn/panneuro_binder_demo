@@ -2,7 +2,7 @@
 panneuro-binder-demo
 =============================
 
-panneuro-binder-demo is  an example of the PanNeuro approach to big data neuroscience
+panneuro-binder-demo is an example of the PanNeuro approach to big data neuroscience
 
 Try these notebooks on pangeo.binder.io_ : |Binder|
 
